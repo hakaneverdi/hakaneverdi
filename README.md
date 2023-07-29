@@ -8,12 +8,13 @@
 
   
   
-- 💻 Aspiring Full Stack Developer
-- 🌱 I’m currently learning **Java Frameworks** 
-- 💬 Ask me about **everything**  
-- 📚 Open for collaborations and learning. 
-- 🤝 Let's code the world together!
-- ⚡ Fun fact: **I use tabs over spaces**  
+- 💻 Aspiring Full Stack Developer  
+- 🌱 I’m currently learning Java Frameworks  
+- 📍 I'm currently living in Ankara/Turkey  
+- 💬 Ask me about everything  
+- 📚 Open for collaborations and learning.  
+- 🤝 Let's code the world together!  
+- ⚡ Fun fact: I use tabs over spaces  
  
   
 
